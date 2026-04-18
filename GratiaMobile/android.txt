@@ -1,0 +1,3 @@
+title=Gratia Mobile
+author=AI Assistant
+orientation=portrait
